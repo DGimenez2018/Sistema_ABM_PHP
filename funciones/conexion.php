@@ -2,9 +2,9 @@
 
 $localServer = $_SERVER['HTTP_HOST'];
 
-const SERVER    = 'KILSER01';
-const USUARIO   = 'MarioM';
-const CLAVE     = 'Agus0804';
+const SERVER    = 'localhost';
+const USUARIO   = 'root';
+const CLAVE     = 'administrador';
 const BASE      = 'catalogo';
 	
 const XAMPPSERVER    = 'localhost';
